@@ -1,0 +1,23 @@
+{
+  "name": "travelwebsite",
+  "version": "1.0.0",
+  "description": "HTML/CSS/JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bihara79miyuni/TravelSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bihara79miyuni/TravelSite/issues"
+  },
+  "homepage": "https://github.com/bihara79miyuni/TravelSite#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
